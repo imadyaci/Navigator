@@ -1,0 +1,9 @@
+c:\users\imad\documents\visual studio 2013\Projects-nodejs\Navigateur\Navigateur\bin\Debug\Navigateur.exe.config
+c:\users\imad\documents\visual studio 2013\Projects-nodejs\Navigateur\Navigateur\bin\Debug\Navigateur.exe
+c:\users\imad\documents\visual studio 2013\Projects-nodejs\Navigateur\Navigateur\bin\Debug\Navigateur.pdb
+c:\users\imad\documents\visual studio 2013\Projects-nodejs\Navigateur\Navigateur\obj\Debug\Navigateur.csprojResolveAssemblyReference.cache
+c:\users\imad\documents\visual studio 2013\Projects-nodejs\Navigateur\Navigateur\obj\Debug\Navigateur.Forme.resources
+c:\users\imad\documents\visual studio 2013\Projects-nodejs\Navigateur\Navigateur\obj\Debug\Navigateur.Properties.Resources.resources
+c:\users\imad\documents\visual studio 2013\Projects-nodejs\Navigateur\Navigateur\obj\Debug\Navigateur.csproj.GenerateResource.Cache
+c:\users\imad\documents\visual studio 2013\Projects-nodejs\Navigateur\Navigateur\obj\Debug\Navigateur.exe
+c:\users\imad\documents\visual studio 2013\Projects-nodejs\Navigateur\Navigateur\obj\Debug\Navigateur.pdb
